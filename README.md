@@ -1,5 +1,5 @@
 ## hospital-occupancy-tracker-R
-cron job that collects data for <a href = "https://github.com/jlomako/Montreal-ER">Montreal-ER</a> app
+cron job that collects data for <a href = "https://github.com/jlomako/Montreal-ER">Montreal-ER</a> app and saves plot in folder
 
 [![hospital_occupancy_tracker](https://github.com/jlomako/hospital-occupancy-tracker-R/actions/workflows/main.yml/badge.svg)](https://github.com/jlomako/hospital-occupancy-tracker-R/actions/workflows/main.yml)
 
