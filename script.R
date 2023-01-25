@@ -54,5 +54,5 @@ df %>%
   labs(x = NULL, y = NULL, caption = paste(update_txt)) +
   theme(panel.grid = element_blank(), axis.ticks.x = element_blank(), axis.text.x = element_blank())
 
-#ggsave("img/today.png")
-ggsave("img/today.jpeg")
+ggsave("img/today.png")
+# ggsave("img/today.jpeg")
