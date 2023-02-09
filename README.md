@@ -13,4 +13,5 @@ bot has been replaced by a faster version that does exactly the same thing but i
 * data source wasn't available from Sep 15-19, replaced missing data with data from pdfscraper
 * created new yml file that reads packages from renv.lock
 * bot runs on ubuntu now
+* bot has been retired and replaced by a faster version. It's still operational as of February 8th, 2023
 
